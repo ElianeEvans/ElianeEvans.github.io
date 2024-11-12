@@ -2,7 +2,7 @@
 
 [![Gong Yu](https://img.shields.io/badge/elianeevans-github-blue?logo=github)](https://github.com/ElianeEvans)
 
-I am currently a graduate student at Wuhan University, working in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS). My primary research focus is on nighttime light remote sensing.
+Hi! This is Yu! I am currently a graduate student at Wuhan University, working in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS). My supervisor is Prof. Li Xi [[Link]](http://nightlight.whu.edu.cn/en).
 
 #### Email
 gongyyy125@163.com
